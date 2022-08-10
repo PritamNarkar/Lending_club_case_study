@@ -81,7 +81,7 @@ This case study is authered by Sanket Pawar & Pritam Narkar.
 
 
 ## Contact
-Created by [@pawarsank] - feel free to contact me!
+Created by [pritamkudtarkar@gmail.com] - feel free to contact me!
 
 
 <!-- Optional -->
